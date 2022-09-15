@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###需要连接网易云API
+https://github.com/Binaryify/NeteaseCloudMusicApi.git
